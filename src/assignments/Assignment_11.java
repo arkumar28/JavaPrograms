@@ -6,9 +6,8 @@ public class Assignment_11 {
 	
 	public static void main(String[] args) {
 		
-		String name ="GroTech";
 		for(int i=10;i>=1;i--) {
-			System.out.println(i+". "+name);
+			System.out.println(i);
 		}
 	}
 

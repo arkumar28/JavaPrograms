@@ -1,6 +1,6 @@
 package assignments;
 
-//super most class having 2CM, abstract class having 2AM & 02CM, subclass having 2CM
+//	
 
 class Animals1 {
 	
